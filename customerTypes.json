@@ -1,0 +1,29 @@
+{
+  "customerTypes": [
+    {
+      "id": "retail",
+      "name": "Retail",
+      "discountPercentage": 0
+    },
+    {
+      "id": "crew",
+      "name": "Crew",
+      "discountPercentage": 15
+    },
+    {
+      "id": "happyHour",
+      "name": "Happy hour",
+      "discountPercentage": 20
+    },
+    {
+      "id": "businessInvitation",
+      "name": "Business invitation",
+      "discountPercentage": 25
+    },
+    {
+      "id": "touristInvitation",
+      "name": "Tourist invitation",
+      "discountPercentage": 10
+    }
+  ]
+}
