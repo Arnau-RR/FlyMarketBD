@@ -1,0 +1,10 @@
+{
+  "payments": [
+    {
+      "id": 1,
+      "status": "OK",
+      "message": "Fake payment processed successfully",
+      "timestamp": "2025-01-01T00:00:00Z"
+    }
+  ]
+}
