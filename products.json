@@ -8,13 +8,6 @@
       "category": "Sandwiches"
     },
     {
-      "imageUrl": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Beef Burger",
-      "units": 3,
-      "basePrice": 12.5,
-      "category": "Sandwiches"
-    },
-    {
       "imageUrl": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1260",
       "name": "Club Sandwich",
       "units": 4,
@@ -26,13 +19,6 @@
       "name": "Veggie Burger",
       "units": 2,
       "basePrice": 10.99,
-      "category": "Sandwiches"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Turkey Club Sandwich",
-      "units": 3,
-      "basePrice": 9.99,
       "category": "Sandwiches"
     },
     {
@@ -48,13 +34,6 @@
       "name": "Pepperoni Pizza",
       "units": 5,
       "basePrice": 15.99,
-      "category": "Pizzas"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Margherita Pizza",
-      "units": 3,
-      "basePrice": 13.5,
       "category": "Pizzas"
     },
     {
@@ -108,39 +87,10 @@
       "category": "Salads"
     },
     {
-      "imageUrl": "https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Garden Salad",
-      "units": 5,
-      "basePrice": 9.5,
-      "category": "Salads"
-    },
-
-    {
-      "imageUrl": "https://images.pexels.com/photos/1893556/pexels-photo-1893556.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "French Fries",
-      "units": 8,
-      "basePrice": 4.5,
-      "category": "Sides"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/2089717/pexels-photo-2089717.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Onion Rings",
-      "units": 5,
-      "basePrice": 5.25,
-      "category": "Sides"
-    },
-    {
       "imageUrl": "https://images.pexels.com/photos/6419720/pexels-photo-6419720.jpeg?auto=compress&cs=tinysrgb&w=1260",
       "name": "Chicken Wings",
       "units": 7,
       "basePrice": 11.99,
-      "category": "Sides"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/5409015/pexels-photo-5409015.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Mozzarella Sticks",
-      "units": 4,
-      "basePrice": 7.5,
       "category": "Sides"
     },
     {
@@ -156,13 +106,6 @@
       "name": "Orange Juice",
       "units": 10,
       "basePrice": 3.5,
-      "category": "Drinks"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/1564734/pexels-photo-1564734.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Lemonade",
-      "units": 6,
-      "basePrice": 3.25,
       "category": "Drinks"
     },
     {
@@ -222,33 +165,11 @@
       "basePrice": 14.5,
       "category": "Pasta"
     },
-
-    {
-      "imageUrl": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Chocolate Cake",
-      "units": 6,
-      "basePrice": 6.5,
-      "category": "Desserts"
-    },
     {
       "imageUrl": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=1260",
       "name": "Cheesecake",
       "units": 5,
       "basePrice": 7.25,
-      "category": "Desserts"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/1352278/pexels-photo-1352278.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Ice Cream Sundae",
-      "units": 8,
-      "basePrice": 5.75,
-      "category": "Desserts"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/1055272/pexels-photo-1055272.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Tiramisu",
-      "units": 3,
-      "basePrice": 6.99,
       "category": "Desserts"
     },
     {
@@ -258,14 +179,6 @@
       "basePrice": 4.99,
       "category": "Desserts"
     },
-    {
-      "imageUrl": "https://images.pexels.com/photos/4109990/pexels-photo-4109990.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Apple Pie",
-      "units": 4,
-      "basePrice": 6.25,
-      "category": "Desserts"
-    },
-
     {
       "imageUrl": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260",
       "name": "Pancakes",
@@ -285,27 +198,6 @@
       "name": "French Toast",
       "units": 3,
       "basePrice": 7.99,
-      "category": "Breakfast"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/824635/pexels-photo-824635.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Croissant",
-      "units": 10,
-      "basePrice": 3.5,
-      "category": "Breakfast"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/3659862/pexels-photo-3659862.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Bagel with Cream Cheese",
-      "units": 6,
-      "basePrice": 4.25,
-      "category": "Breakfast"
-    },
-    {
-      "imageUrl": "https://images.pexels.com/photos/1401377/pexels-photo-1401377.jpeg?auto=compress&cs=tinysrgb&w=1260",
-      "name": "Omelette",
-      "units": 4,
-      "basePrice": 7.25,
       "category": "Breakfast"
     }
   ]
